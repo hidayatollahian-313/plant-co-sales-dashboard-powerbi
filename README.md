@@ -47,6 +47,7 @@ The goal of this project is to transform raw sales data into meaningful insights
 ## Project Structure
 
 Plant-Co-Sales-Dashboard
+
 ├── Plant Co. Sales Performance Report 2023.pbix
 ├── Plant_DTS(DATASET)
 ├──  Dashboard.png
