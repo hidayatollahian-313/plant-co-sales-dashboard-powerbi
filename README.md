@@ -91,7 +91,7 @@ This dashboard enables stakeholders to monitor key performance indicators, ident
 I am open to internship opportunities, collaborations, and professional discussions in Data Analytics.
 
 LinkedIn: https:https://www.linkedin.com/in/hidayat-ullah-5060743b6/
-GitHub: https://github.com/your-username
+
 
 ---
 
